@@ -55,9 +55,9 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = 'Sanzy Bot'
+global.namabot = '𝑮𝒂𝒗𝒖𝒆𝒍𝒔 Bot'
 
-global.namaowner = 'Sanzy YT'
+global.namaowner = 'Alsa Rizky J'
 
 global.myweb = 'https://www.instagram.com/2kangsoul_/'
 
