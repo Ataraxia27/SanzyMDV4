@@ -807,12 +807,12 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 
 📚 *Base : Dika Ardnt* 
 
-https://github.com/DikaArdnt/Hisoka-Morou
+https://go.paid4link.com/ZqBRJ4
 
 
-🌱 Recode By : Sanzy YT
+💠 Recode By : 𝑮𝒂𝒗𝒖𝒆𝒍'𝒔
 
-https://youtube.com/c/SanzyYT`
+https://go.paid4link.com/IKyE4A`
                 let button = [{
                                 urlButton: {
                                     displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
