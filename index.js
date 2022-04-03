@@ -236,8 +236,8 @@ async function startHisoka() {
 
 	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await hisoka.getName(i + '@s.whatsapp.net')}\nFN:${await hisoka.getName(i + '@s.whatsapp.net')}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET:lycan2701@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/2kangsoul_/\nitem3.X-ABLabel:Youtube\nitem4.ADR:;;Indonesia;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
 	},
-			{displayName: await hisoka.getName('6285156292824@s.whatsapp.net'),
-	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:Jangan Spam\nFN:Alsa Rizky J\nitem1.TEL;waid=6285171127920:6285171127920\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET:lycan2701@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/2kangsoul_/\nitem3.X-ABLabel:Youtube\nitem4.ADR:;;Indonesia;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
+			{displayName: await hisoka.getName('6285171127920@s.whatsapp.net'),
+	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:Jangan Spam\nFN:Alsa Rizky\nitem1.TEL;waid=6285171127920:6285171127920\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET:lycan2701@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/2kangsoul_/\nitem3.X-ABLabel:Youtube\nitem4.ADR:;;Indonesia;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
 
 	    })
 
