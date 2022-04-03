@@ -816,7 +816,7 @@ https://youtube.com/c/SanzyYT`
                 let button = [{
                                 urlButton: {
                                     displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://youtube.com/c/SanzyYT'
+                                    url: 'https://www.instagram.com/2kangsoul_/'
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
