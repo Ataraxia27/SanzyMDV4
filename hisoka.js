@@ -5160,13 +5160,13 @@ Saya ${global.namabot}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏
 
 
-• Library : *Baileys-MD*.
-• Prefix : ( ${prefix} )
-• Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
-• Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
-• Wib : ${wib}
-• Wit : ${wit}
-• Wita : ${wita}`
+🌀 Library : *Baileys-MD*.
+🌀 Prefix : ( ${prefix} )
+🌀 Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
+🌀 Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
+🌀 Wib : ${wib}
+🌀 Wit : ${wit}
+🌀 Wita : ${wita}`
                 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
